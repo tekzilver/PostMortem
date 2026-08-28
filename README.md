@@ -1,4 +1,10 @@
-PostMortem Forensic Log Analyzer V1.0:
+<div align="center">
+  <img src="icon.png" alt="SiteMapper Logo" width="100" height="100" />
+</div>
+
+---
+
+###PostMortem Forensic Log Analyzer V1.0:
 PostMortem is a read-only, zero-tech forensic log analyzer built by Tekzilver. It is designed for cybersecurity researchers and professionals to safely ingest Apache, Nginx, CSV, and JSON access logs to investigate breaches, trace malicious IP activity, and detect web shells or SQLi/XSS attacks.
 
 Features:
