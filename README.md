@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="icon.ico" alt="PostMortem Logo" width="100" height="100" />
+  <img src="icon.png" alt="PostMortem Logo" width="100" height="100" />
 </div>
 
 ---
